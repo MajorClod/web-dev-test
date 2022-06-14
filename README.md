@@ -16,3 +16,4 @@ The following instructions are for a Windows based environment.  Linux or Mac in
 - After installation, try running the project using python manage.py runserver
 - Navigate to http://localhost:8000 and you should see Welcome to index.html inside your browser
 - You're now setup and ready for the test
+- PS: There is an API endpoint for accounts - see if you can find it
